@@ -1,0 +1,5450 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-01T00:33:20</date>
+  <millis>1543642400941</millis>
+  <sequence>0</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica1 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-01T01:46:26</date>
+  <millis>1543646786785</millis>
+  <sequence>0</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica1 running...</message>
+</record>
+<record>
+  <date>2018-12-01T01:47:16</date>
+  <millis>1543646836600</millis>
+  <sequence>1</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-01T01:48:45</date>
+  <millis>1543646925628</millis>
+  <sequence>0</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica1 running...</message>
+</record>
+<record>
+  <date>2018-12-01T01:50:05</date>
+  <millis>1543647005121</millis>
+  <sequence>1</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-01T02:06:34</date>
+  <millis>1543647994549</millis>
+  <sequence>0</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica1 running...</message>
+</record>
+<record>
+  <date>2018-12-01T02:06:41</date>
+  <millis>1543648001667</millis>
+  <sequence>1</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-01T18:15:51</date>
+  <millis>1543706151389</millis>
+  <sequence>0</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica1 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-01T22:03:15</date>
+  <millis>1543719795117</millis>
+  <sequence>0</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica1 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-01T22:04:01</date>
+  <millis>1543719841035</millis>
+  <sequence>0</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica1 running...</message>
+</record>
+<record>
+  <date>2018-12-01T22:04:15</date>
+  <millis>1543719855419</millis>
+  <sequence>1</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-01T22:04:15</date>
+  <millis>1543719855480</millis>
+  <sequence>2</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 22</message>
+</record>
+<record>
+  <date>2018-12-01T22:04:15</date>
+  <millis>1543719855483</millis>
+  <sequence>3</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-01T22:04:33</date>
+  <millis>1543719873639</millis>
+  <sequence>4</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-01T22:04:33</date>
+  <millis>1543719873641</millis>
+  <sequence>5</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 23</message>
+</record>
+<record>
+  <date>2018-12-01T22:04:33</date>
+  <millis>1543719873643</millis>
+  <sequence>6</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-01T22:06:24</date>
+  <millis>1543719984064</millis>
+  <sequence>7</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-01T22:06:24</date>
+  <millis>1543719984065</millis>
+  <sequence>8</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 24</message>
+</record>
+<record>
+  <date>2018-12-01T22:06:24</date>
+  <millis>1543719984068</millis>
+  <sequence>9</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-01T22:06:56</date>
+  <millis>1543720016392</millis>
+  <sequence>10</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-01T22:06:56</date>
+  <millis>1543720016394</millis>
+  <sequence>11</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 25</message>
+</record>
+<record>
+  <date>2018-12-01T22:06:56</date>
+  <millis>1543720016395</millis>
+  <sequence>12</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-01T22:09:00</date>
+  <millis>1543720140998</millis>
+  <sequence>13</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-01T22:09:00</date>
+  <millis>1543720140999</millis>
+  <sequence>14</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 26</message>
+</record>
+<record>
+  <date>2018-12-01T22:09:01</date>
+  <millis>1543720141001</millis>
+  <sequence>15</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-01T22:09:31</date>
+  <millis>1543720171054</millis>
+  <sequence>16</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-01T22:09:31</date>
+  <millis>1543720171056</millis>
+  <sequence>17</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 27</message>
+</record>
+<record>
+  <date>2018-12-01T22:09:31</date>
+  <millis>1543720171058</millis>
+  <sequence>18</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-01T22:12:07</date>
+  <millis>1543720327187</millis>
+  <sequence>19</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-01T22:12:07</date>
+  <millis>1543720327189</millis>
+  <sequence>20</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 28</message>
+</record>
+<record>
+  <date>2018-12-01T22:12:07</date>
+  <millis>1543720327192</millis>
+  <sequence>21</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-01T22:21:35</date>
+  <millis>1543720895334</millis>
+  <sequence>22</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-01T22:21:35</date>
+  <millis>1543720895336</millis>
+  <sequence>23</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 29</message>
+</record>
+<record>
+  <date>2018-12-01T22:21:35</date>
+  <millis>1543720895338</millis>
+  <sequence>24</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-01T22:21:45</date>
+  <millis>1543720905335</millis>
+  <sequence>25</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-01T22:21:45</date>
+  <millis>1543720905337</millis>
+  <sequence>26</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 30</message>
+</record>
+<record>
+  <date>2018-12-01T22:21:45</date>
+  <millis>1543720905339</millis>
+  <sequence>27</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-01T22:22:08</date>
+  <millis>1543720928886</millis>
+  <sequence>28</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-01T22:22:08</date>
+  <millis>1543720928888</millis>
+  <sequence>29</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 31</message>
+</record>
+<record>
+  <date>2018-12-01T22:22:08</date>
+  <millis>1543720928889</millis>
+  <sequence>30</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-01T22:22:31</date>
+  <millis>1543720951723</millis>
+  <sequence>31</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-01T22:22:31</date>
+  <millis>1543720951725</millis>
+  <sequence>32</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 32</message>
+</record>
+<record>
+  <date>2018-12-01T22:22:31</date>
+  <millis>1543720951726</millis>
+  <sequence>33</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-01T22:23:51</date>
+  <millis>1543721031113</millis>
+  <sequence>34</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-01T22:23:51</date>
+  <millis>1543721031114</millis>
+  <sequence>35</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 33</message>
+</record>
+<record>
+  <date>2018-12-01T22:23:51</date>
+  <millis>1543721031115</millis>
+  <sequence>36</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-01T22:24:03</date>
+  <millis>1543721043244</millis>
+  <sequence>37</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-01T22:24:03</date>
+  <millis>1543721043246</millis>
+  <sequence>38</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 34</message>
+</record>
+<record>
+  <date>2018-12-01T22:24:03</date>
+  <millis>1543721043247</millis>
+  <sequence>39</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-01T22:24:13</date>
+  <millis>1543721053244</millis>
+  <sequence>40</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-01T22:24:13</date>
+  <millis>1543721053246</millis>
+  <sequence>41</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 35</message>
+</record>
+<record>
+  <date>2018-12-01T22:24:13</date>
+  <millis>1543721053247</millis>
+  <sequence>42</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-01T22:25:24</date>
+  <millis>1543721124408</millis>
+  <sequence>43</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-01T22:25:24</date>
+  <millis>1543721124410</millis>
+  <sequence>44</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 36</message>
+</record>
+<record>
+  <date>2018-12-01T22:25:24</date>
+  <millis>1543721124411</millis>
+  <sequence>45</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-01T22:25:40</date>
+  <millis>1543721140397</millis>
+  <sequence>46</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-01T22:25:40</date>
+  <millis>1543721140399</millis>
+  <sequence>47</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 37</message>
+</record>
+<record>
+  <date>2018-12-01T22:25:40</date>
+  <millis>1543721140401</millis>
+  <sequence>48</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-01T22:25:50</date>
+  <millis>1543721150398</millis>
+  <sequence>49</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-01T22:25:50</date>
+  <millis>1543721150993</millis>
+  <sequence>50</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 38</message>
+</record>
+<record>
+  <date>2018-12-01T22:25:50</date>
+  <millis>1543721150995</millis>
+  <sequence>51</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-01T22:26:08</date>
+  <millis>1543721168286</millis>
+  <sequence>52</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-01T22:26:08</date>
+  <millis>1543721168287</millis>
+  <sequence>53</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 39</message>
+</record>
+<record>
+  <date>2018-12-01T22:26:08</date>
+  <millis>1543721168289</millis>
+  <sequence>54</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-01T22:37:12</date>
+  <millis>1543721832528</millis>
+  <sequence>55</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-01T22:37:12</date>
+  <millis>1543721832530</millis>
+  <sequence>56</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 40</message>
+</record>
+<record>
+  <date>2018-12-01T22:37:12</date>
+  <millis>1543721832531</millis>
+  <sequence>57</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-01T22:38:45</date>
+  <millis>1543721925761</millis>
+  <sequence>58</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-01T22:38:45</date>
+  <millis>1543721925762</millis>
+  <sequence>59</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 41</message>
+</record>
+<record>
+  <date>2018-12-01T22:38:45</date>
+  <millis>1543721925763</millis>
+  <sequence>60</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-01T22:40:09</date>
+  <millis>1543722009867</millis>
+  <sequence>61</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-01T22:40:09</date>
+  <millis>1543722009868</millis>
+  <sequence>62</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 42</message>
+</record>
+<record>
+  <date>2018-12-01T22:40:09</date>
+  <millis>1543722009869</millis>
+  <sequence>63</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-01T22:40:27</date>
+  <millis>1543722027472</millis>
+  <sequence>64</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-01T22:40:27</date>
+  <millis>1543722027473</millis>
+  <sequence>65</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 43</message>
+</record>
+<record>
+  <date>2018-12-01T22:40:27</date>
+  <millis>1543722027474</millis>
+  <sequence>66</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-01T22:41:01</date>
+  <millis>1543722061812</millis>
+  <sequence>67</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-01T22:41:01</date>
+  <millis>1543722061813</millis>
+  <sequence>68</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 44</message>
+</record>
+<record>
+  <date>2018-12-01T22:41:01</date>
+  <millis>1543722061814</millis>
+  <sequence>69</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-01T22:43:43</date>
+  <millis>1543722223889</millis>
+  <sequence>70</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-01T22:43:43</date>
+  <millis>1543722223891</millis>
+  <sequence>71</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 45</message>
+</record>
+<record>
+  <date>2018-12-01T22:43:43</date>
+  <millis>1543722223892</millis>
+  <sequence>72</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-01T22:44:08</date>
+  <millis>1543722248652</millis>
+  <sequence>73</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-01T22:44:08</date>
+  <millis>1543722248654</millis>
+  <sequence>74</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 46</message>
+</record>
+<record>
+  <date>2018-12-01T22:44:08</date>
+  <millis>1543722248655</millis>
+  <sequence>75</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-01T22:47:45</date>
+  <millis>1543722465277</millis>
+  <sequence>0</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica1 running...</message>
+</record>
+<record>
+  <date>2018-12-01T22:48:08</date>
+  <millis>1543722488466</millis>
+  <sequence>1</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-01T22:48:08</date>
+  <millis>1543722488534</millis>
+  <sequence>2</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 47</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-01T23:43:07</date>
+  <millis>1543725787627</millis>
+  <sequence>0</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica1 running...</message>
+</record>
+<record>
+  <date>2018-12-01T23:43:29</date>
+  <millis>1543725809497</millis>
+  <sequence>1</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-01T23:43:29</date>
+  <millis>1543725809556</millis>
+  <sequence>2</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 1</message>
+</record>
+<record>
+  <date>2018-12-01T23:43:29</date>
+  <millis>1543725809560</millis>
+  <sequence>3</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-01T23:43:39</date>
+  <millis>1543725819882</millis>
+  <sequence>4</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-01T23:43:39</date>
+  <millis>1543725819884</millis>
+  <sequence>5</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 2</message>
+</record>
+<record>
+  <date>2018-12-01T23:43:39</date>
+  <millis>1543725819887</millis>
+  <sequence>6</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-01T23:43:49</date>
+  <millis>1543725829882</millis>
+  <sequence>7</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-01T23:43:49</date>
+  <millis>1543725829892</millis>
+  <sequence>8</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 3</message>
+</record>
+<record>
+  <date>2018-12-01T23:43:49</date>
+  <millis>1543725829897</millis>
+  <sequence>9</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T00:02:34</date>
+  <millis>1543726954914</millis>
+  <sequence>0</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica1 running...</message>
+</record>
+<record>
+  <date>2018-12-02T00:02:50</date>
+  <millis>1543726970690</millis>
+  <sequence>1</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T00:02:50</date>
+  <millis>1543726970743</millis>
+  <sequence>2</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 1</message>
+</record>
+<record>
+  <date>2018-12-02T00:02:50</date>
+  <millis>1543726970747</millis>
+  <sequence>3</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-02T00:03:05</date>
+  <millis>1543726985495</millis>
+  <sequence>4</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T00:03:05</date>
+  <millis>1543726985497</millis>
+  <sequence>5</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 2</message>
+</record>
+<record>
+  <date>2018-12-02T00:03:05</date>
+  <millis>1543726985500</millis>
+  <sequence>6</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-02T00:03:34</date>
+  <millis>1543727014053</millis>
+  <sequence>7</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T00:03:34</date>
+  <millis>1543727014056</millis>
+  <sequence>8</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 3</message>
+</record>
+<record>
+  <date>2018-12-02T00:03:34</date>
+  <millis>1543727014059</millis>
+  <sequence>9</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-02T00:04:35</date>
+  <millis>1543727075128</millis>
+  <sequence>10</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T00:04:35</date>
+  <millis>1543727075130</millis>
+  <sequence>11</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 4</message>
+</record>
+<record>
+  <date>2018-12-02T00:04:35</date>
+  <millis>1543727075131</millis>
+  <sequence>12</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-02T00:07:05</date>
+  <millis>1543727225564</millis>
+  <sequence>13</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T00:07:05</date>
+  <millis>1543727225566</millis>
+  <sequence>14</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 5</message>
+</record>
+<record>
+  <date>2018-12-02T00:07:05</date>
+  <millis>1543727225568</millis>
+  <sequence>15</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-02T00:07:20</date>
+  <millis>1543727240421</millis>
+  <sequence>16</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T00:07:20</date>
+  <millis>1543727240423</millis>
+  <sequence>17</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 6</message>
+</record>
+<record>
+  <date>2018-12-02T00:07:20</date>
+  <millis>1543727240425</millis>
+  <sequence>18</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T00:12:41</date>
+  <millis>1543727561597</millis>
+  <sequence>0</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica1 running...</message>
+</record>
+<record>
+  <date>2018-12-02T00:12:57</date>
+  <millis>1543727577637</millis>
+  <sequence>1</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T00:12:57</date>
+  <millis>1543727577693</millis>
+  <sequence>2</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 1</message>
+</record>
+<record>
+  <date>2018-12-02T00:12:57</date>
+  <millis>1543727577697</millis>
+  <sequence>3</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-02T00:13:23</date>
+  <millis>1543727603115</millis>
+  <sequence>4</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T00:13:23</date>
+  <millis>1543727603116</millis>
+  <sequence>5</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 2</message>
+</record>
+<record>
+  <date>2018-12-02T00:13:23</date>
+  <millis>1543727603119</millis>
+  <sequence>6</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-02T00:13:42</date>
+  <millis>1543727622189</millis>
+  <sequence>7</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T00:13:42</date>
+  <millis>1543727622191</millis>
+  <sequence>8</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 3</message>
+</record>
+<record>
+  <date>2018-12-02T00:13:42</date>
+  <millis>1543727622193</millis>
+  <sequence>9</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T10:34:12</date>
+  <millis>1543764852898</millis>
+  <sequence>0</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica1 running...</message>
+</record>
+<record>
+  <date>2018-12-02T10:34:42</date>
+  <millis>1543764882021</millis>
+  <sequence>1</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T10:34:42</date>
+  <millis>1543764882080</millis>
+  <sequence>2</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 1</message>
+</record>
+<record>
+  <date>2018-12-02T10:34:42</date>
+  <millis>1543764882083</millis>
+  <sequence>3</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-02T10:35:18</date>
+  <millis>1543764918479</millis>
+  <sequence>4</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T10:35:18</date>
+  <millis>1543764918481</millis>
+  <sequence>5</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 2</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T10:38:19</date>
+  <millis>1543765099067</millis>
+  <sequence>0</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica1 running...</message>
+</record>
+<record>
+  <date>2018-12-02T10:38:29</date>
+  <millis>1543765109271</millis>
+  <sequence>1</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T10:38:29</date>
+  <millis>1543765109334</millis>
+  <sequence>2</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 3</message>
+</record>
+<record>
+  <date>2018-12-02T10:38:29</date>
+  <millis>1543765109338</millis>
+  <sequence>3</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-02T10:38:59</date>
+  <millis>1543765139928</millis>
+  <sequence>4</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T10:38:59</date>
+  <millis>1543765139931</millis>
+  <sequence>5</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 4</message>
+</record>
+<record>
+  <date>2018-12-02T10:38:59</date>
+  <millis>1543765139933</millis>
+  <sequence>6</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-02T10:39:19</date>
+  <millis>1543765159897</millis>
+  <sequence>7</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T10:39:19</date>
+  <millis>1543765159899</millis>
+  <sequence>8</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 5</message>
+</record>
+<record>
+  <date>2018-12-02T10:39:19</date>
+  <millis>1543765159901</millis>
+  <sequence>9</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-02T10:41:14</date>
+  <millis>1543765274020</millis>
+  <sequence>10</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T10:41:14</date>
+  <millis>1543765274021</millis>
+  <sequence>11</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 6</message>
+</record>
+<record>
+  <date>2018-12-02T10:41:14</date>
+  <millis>1543765274024</millis>
+  <sequence>12</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-02T10:41:24</date>
+  <millis>1543765284022</millis>
+  <sequence>13</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T10:41:24</date>
+  <millis>1543765284024</millis>
+  <sequence>14</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 7</message>
+</record>
+<record>
+  <date>2018-12-02T10:41:24</date>
+  <millis>1543765284025</millis>
+  <sequence>15</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-02T10:41:34</date>
+  <millis>1543765294023</millis>
+  <sequence>16</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T10:41:34</date>
+  <millis>1543765294025</millis>
+  <sequence>17</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 8</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T10:48:00</date>
+  <millis>1543765680125</millis>
+  <sequence>0</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica1 running...</message>
+</record>
+<record>
+  <date>2018-12-02T10:48:15</date>
+  <millis>1543765695028</millis>
+  <sequence>1</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T10:48:15</date>
+  <millis>1543765695092</millis>
+  <sequence>2</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 1</message>
+</record>
+<record>
+  <date>2018-12-02T10:48:15</date>
+  <millis>1543765695098</millis>
+  <sequence>3</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-02T10:48:29</date>
+  <millis>1543765709978</millis>
+  <sequence>4</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T10:48:29</date>
+  <millis>1543765709980</millis>
+  <sequence>5</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 2</message>
+</record>
+<record>
+  <date>2018-12-02T10:48:29</date>
+  <millis>1543765709983</millis>
+  <sequence>6</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-02T10:48:44</date>
+  <millis>1543765724064</millis>
+  <sequence>7</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T10:48:44</date>
+  <millis>1543765724066</millis>
+  <sequence>8</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 3</message>
+</record>
+<record>
+  <date>2018-12-02T10:48:44</date>
+  <millis>1543765724068</millis>
+  <sequence>9</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-02T10:49:03</date>
+  <millis>1543765743082</millis>
+  <sequence>10</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T10:49:03</date>
+  <millis>1543765743084</millis>
+  <sequence>11</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 4</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T10:53:48</date>
+  <millis>1543766028518</millis>
+  <sequence>0</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica1 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T10:54:51</date>
+  <millis>1543766091354</millis>
+  <sequence>0</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica1 running...</message>
+</record>
+<record>
+  <date>2018-12-02T10:55:03</date>
+  <millis>1543766103802</millis>
+  <sequence>1</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T10:55:03</date>
+  <millis>1543766103868</millis>
+  <sequence>2</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 1</message>
+</record>
+<record>
+  <date>2018-12-02T10:55:03</date>
+  <millis>1543766103872</millis>
+  <sequence>3</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-02T10:55:17</date>
+  <millis>1543766117051</millis>
+  <sequence>4</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T10:55:17</date>
+  <millis>1543766117054</millis>
+  <sequence>5</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 2</message>
+</record>
+<record>
+  <date>2018-12-02T10:55:17</date>
+  <millis>1543766117056</millis>
+  <sequence>6</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-02T10:55:35</date>
+  <millis>1543766135141</millis>
+  <sequence>7</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T10:55:35</date>
+  <millis>1543766135143</millis>
+  <sequence>8</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 3</message>
+</record>
+<record>
+  <date>2018-12-02T10:55:35</date>
+  <millis>1543766135290</millis>
+  <sequence>9</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T11:15:55</date>
+  <millis>1543767355392</millis>
+  <sequence>1</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>UDP</method>
+  <thread>10</thread>
+  <message>Replica1 running...</message>
+</record>
+<record>
+  <date>2018-12-02T11:16:05</date>
+  <millis>1543767365417</millis>
+  <sequence>2</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>UDP</method>
+  <thread>10</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T11:16:05</date>
+  <millis>1543767365441</millis>
+  <sequence>3</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>UDP</method>
+  <thread>10</thread>
+  <message>SeqID: 0</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T11:17:28</date>
+  <millis>1543767448939</millis>
+  <sequence>0</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica1 running...</message>
+</record>
+<record>
+  <date>2018-12-02T11:17:28</date>
+  <millis>1543767448943</millis>
+  <sequence>1</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>UDP</method>
+  <thread>10</thread>
+  <message>Replica1 running...</message>
+</record>
+<record>
+  <date>2018-12-02T11:17:48</date>
+  <millis>1543767468653</millis>
+  <sequence>2</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T11:17:48</date>
+  <millis>1543767468679</millis>
+  <sequence>3</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 5</message>
+</record>
+<record>
+  <date>2018-12-02T11:17:48</date>
+  <millis>1543767468684</millis>
+  <sequence>4</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-02T11:17:59</date>
+  <millis>1543767479079</millis>
+  <sequence>5</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T11:17:59</date>
+  <millis>1543767479082</millis>
+  <sequence>6</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 6</message>
+</record>
+<record>
+  <date>2018-12-02T11:17:59</date>
+  <millis>1543767479086</millis>
+  <sequence>7</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-02T11:18:17</date>
+  <millis>1543767497749</millis>
+  <sequence>8</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T11:18:17</date>
+  <millis>1543767497752</millis>
+  <sequence>9</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 7</message>
+</record>
+<record>
+  <date>2018-12-02T11:18:17</date>
+  <millis>1543767497811</millis>
+  <sequence>10</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-02T11:18:42</date>
+  <millis>1543767522170</millis>
+  <sequence>11</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T11:18:42</date>
+  <millis>1543767522172</millis>
+  <sequence>12</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 8</message>
+</record>
+<record>
+  <date>2018-12-02T11:18:42</date>
+  <millis>1543767522175</millis>
+  <sequence>13</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-02T11:19:20</date>
+  <millis>1543767560400</millis>
+  <sequence>14</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T11:19:20</date>
+  <millis>1543767560404</millis>
+  <sequence>15</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 9</message>
+</record>
+<record>
+  <date>2018-12-02T11:19:20</date>
+  <millis>1543767560407</millis>
+  <sequence>16</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-02T11:20:36</date>
+  <millis>1543767636901</millis>
+  <sequence>17</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T11:20:36</date>
+  <millis>1543767636903</millis>
+  <sequence>18</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 11</message>
+</record>
+<record>
+  <date>2018-12-02T11:20:36</date>
+  <millis>1543767636913</millis>
+  <sequence>19</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T11:24:56</date>
+  <millis>1543767896785</millis>
+  <sequence>0</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica1 running...</message>
+</record>
+<record>
+  <date>2018-12-02T11:24:56</date>
+  <millis>1543767896790</millis>
+  <sequence>1</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>UDP</method>
+  <thread>10</thread>
+  <message>Replica1 running...</message>
+</record>
+<record>
+  <date>2018-12-02T11:25:41</date>
+  <millis>1543767941772</millis>
+  <sequence>2</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T11:25:41</date>
+  <millis>1543767941799</millis>
+  <sequence>3</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 13</message>
+</record>
+<record>
+  <date>2018-12-02T11:25:41</date>
+  <millis>1543767941804</millis>
+  <sequence>4</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-02T11:25:56</date>
+  <millis>1543767956072</millis>
+  <sequence>5</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T11:25:56</date>
+  <millis>1543767956075</millis>
+  <sequence>6</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 14</message>
+</record>
+<record>
+  <date>2018-12-02T11:25:56</date>
+  <millis>1543767956115</millis>
+  <sequence>7</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-02T11:28:01</date>
+  <millis>1543768081989</millis>
+  <sequence>8</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T11:28:01</date>
+  <millis>1543768081993</millis>
+  <sequence>9</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 16</message>
+</record>
+<record>
+  <date>2018-12-02T11:28:02</date>
+  <millis>1543768082005</millis>
+  <sequence>10</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-02T11:32:18</date>
+  <millis>1543768338968</millis>
+  <sequence>11</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T11:32:18</date>
+  <millis>1543768338971</millis>
+  <sequence>12</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 18</message>
+</record>
+<record>
+  <date>2018-12-02T11:32:18</date>
+  <millis>1543768338981</millis>
+  <sequence>13</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-02T11:34:07</date>
+  <millis>1543768447469</millis>
+  <sequence>14</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T11:34:07</date>
+  <millis>1543768447471</millis>
+  <sequence>15</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 20</message>
+</record>
+<record>
+  <date>2018-12-02T11:34:07</date>
+  <millis>1543768447485</millis>
+  <sequence>16</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-02T11:35:21</date>
+  <millis>1543768521730</millis>
+  <sequence>17</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T11:35:21</date>
+  <millis>1543768521732</millis>
+  <sequence>18</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 22</message>
+</record>
+<record>
+  <date>2018-12-02T11:35:21</date>
+  <millis>1543768521742</millis>
+  <sequence>19</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-02T11:36:50</date>
+  <millis>1543768610401</millis>
+  <sequence>20</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T11:36:50</date>
+  <millis>1543768610403</millis>
+  <sequence>21</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 24</message>
+</record>
+<record>
+  <date>2018-12-02T11:36:50</date>
+  <millis>1543768610413</millis>
+  <sequence>22</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-02T11:40:58</date>
+  <millis>1543768858608</millis>
+  <sequence>23</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T11:40:58</date>
+  <millis>1543768858610</millis>
+  <sequence>24</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 26</message>
+</record>
+<record>
+  <date>2018-12-02T11:40:58</date>
+  <millis>1543768858620</millis>
+  <sequence>25</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T11:43:30</date>
+  <millis>1543769010134</millis>
+  <sequence>0</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica1 running...</message>
+</record>
+<record>
+  <date>2018-12-02T11:43:30</date>
+  <millis>1543769010140</millis>
+  <sequence>1</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>UDP</method>
+  <thread>11</thread>
+  <message>Replica1 running...</message>
+</record>
+<record>
+  <date>2018-12-02T11:44:30</date>
+  <millis>1543769070418</millis>
+  <sequence>2</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T11:44:30</date>
+  <millis>1543769070443</millis>
+  <sequence>3</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 28</message>
+</record>
+<record>
+  <date>2018-12-02T11:44:30</date>
+  <millis>1543769070447</millis>
+  <sequence>4</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T11:51:10</date>
+  <millis>1543769470001</millis>
+  <sequence>0</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica1 running...</message>
+</record>
+<record>
+  <date>2018-12-02T11:51:10</date>
+  <millis>1543769470008</millis>
+  <sequence>1</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>UDP</method>
+  <thread>11</thread>
+  <message>Replica1 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T11:52:20</date>
+  <millis>1543769540178</millis>
+  <sequence>0</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica1 running...</message>
+</record>
+<record>
+  <date>2018-12-02T11:52:20</date>
+  <millis>1543769540184</millis>
+  <sequence>1</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>UDP</method>
+  <thread>11</thread>
+  <message>Replica1 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T11:53:19</date>
+  <millis>1543769599224</millis>
+  <sequence>0</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica1 running...</message>
+</record>
+<record>
+  <date>2018-12-02T11:53:19</date>
+  <millis>1543769599230</millis>
+  <sequence>1</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>UDP</method>
+  <thread>11</thread>
+  <message>Replica1 running...</message>
+</record>
+<record>
+  <date>2018-12-02T11:53:39</date>
+  <millis>1543769619219</millis>
+  <sequence>2</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T11:53:39</date>
+  <millis>1543769619244</millis>
+  <sequence>3</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 2</message>
+</record>
+<record>
+  <date>2018-12-02T11:53:39</date>
+  <millis>1543769619261</millis>
+  <sequence>4</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-02T11:54:01</date>
+  <millis>1543769641569</millis>
+  <sequence>5</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T11:54:01</date>
+  <millis>1543769641572</millis>
+  <sequence>6</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 3</message>
+</record>
+<record>
+  <date>2018-12-02T11:54:01</date>
+  <millis>1543769641575</millis>
+  <sequence>7</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-02T11:54:29</date>
+  <millis>1543769669313</millis>
+  <sequence>8</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>UDP</method>
+  <thread>11</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T11:54:29</date>
+  <millis>1543769669316</millis>
+  <sequence>9</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>UDP</method>
+  <thread>11</thread>
+  <message>SeqID: 0</message>
+</record>
+<record>
+  <date>2018-12-02T11:57:43</date>
+  <millis>1543769863953</millis>
+  <sequence>10</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>UDP</method>
+  <thread>11</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T11:57:43</date>
+  <millis>1543769863956</millis>
+  <sequence>11</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>UDP</method>
+  <thread>11</thread>
+  <message>SeqID: 0</message>
+</record>
+<record>
+  <date>2018-12-02T11:58:16</date>
+  <millis>1543769896771</millis>
+  <sequence>12</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T11:58:16</date>
+  <millis>1543769896774</millis>
+  <sequence>13</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 6</message>
+</record>
+<record>
+  <date>2018-12-02T11:58:16</date>
+  <millis>1543769896777</millis>
+  <sequence>14</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T12:02:54</date>
+  <millis>1543770174070</millis>
+  <sequence>0</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica1 running...</message>
+</record>
+<record>
+  <date>2018-12-02T12:02:54</date>
+  <millis>1543770174079</millis>
+  <sequence>1</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>UDP</method>
+  <thread>11</thread>
+  <message>Replica1 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T12:04:26</date>
+  <millis>1543770266864</millis>
+  <sequence>0</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica1 running...</message>
+</record>
+<record>
+  <date>2018-12-02T12:04:26</date>
+  <millis>1543770266875</millis>
+  <sequence>1</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>UDP</method>
+  <thread>11</thread>
+  <message>Replica1 running...</message>
+</record>
+<record>
+  <date>2018-12-02T12:05:29</date>
+  <millis>1543770329077</millis>
+  <sequence>2</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T12:05:29</date>
+  <millis>1543770329104</millis>
+  <sequence>3</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 9</message>
+</record>
+<record>
+  <date>2018-12-02T12:05:29</date>
+  <millis>1543770329121</millis>
+  <sequence>4</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-02T12:05:44</date>
+  <millis>1543770344208</millis>
+  <sequence>5</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>UDP</method>
+  <thread>11</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T12:05:44</date>
+  <millis>1543770344211</millis>
+  <sequence>6</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>UDP</method>
+  <thread>11</thread>
+  <message>SeqID: 0</message>
+</record>
+<record>
+  <date>2018-12-02T12:06:02</date>
+  <millis>1543770362092</millis>
+  <sequence>7</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T12:06:02</date>
+  <millis>1543770362094</millis>
+  <sequence>8</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 11</message>
+</record>
+<record>
+  <date>2018-12-02T12:06:02</date>
+  <millis>1543770362096</millis>
+  <sequence>9</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T12:13:37</date>
+  <millis>1543770817352</millis>
+  <sequence>0</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica1 running...</message>
+</record>
+<record>
+  <date>2018-12-02T12:13:37</date>
+  <millis>1543770817357</millis>
+  <sequence>1</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>UDP</method>
+  <thread>12</thread>
+  <message>Replica1 running...</message>
+</record>
+<record>
+  <date>2018-12-02T12:14:16</date>
+  <millis>1543770856998</millis>
+  <sequence>2</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T12:14:17</date>
+  <millis>1543770857022</millis>
+  <sequence>3</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 2</message>
+</record>
+<record>
+  <date>2018-12-02T12:14:17</date>
+  <millis>1543770857037</millis>
+  <sequence>4</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-02T12:14:44</date>
+  <millis>1543770884920</millis>
+  <sequence>5</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>UDP</method>
+  <thread>12</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T12:14:44</date>
+  <millis>1543770884923</millis>
+  <sequence>6</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>UDP</method>
+  <thread>12</thread>
+  <message>SeqID: 0</message>
+</record>
+<record>
+  <date>2018-12-02T12:15:16</date>
+  <millis>1543770916294</millis>
+  <sequence>7</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T12:15:16</date>
+  <millis>1543770916296</millis>
+  <sequence>8</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 4</message>
+</record>
+<record>
+  <date>2018-12-02T12:15:16</date>
+  <millis>1543770916299</millis>
+  <sequence>9</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-02T12:24:35</date>
+  <millis>1543771475860</millis>
+  <sequence>10</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T12:24:35</date>
+  <millis>1543771475872</millis>
+  <sequence>11</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 5</message>
+</record>
+<record>
+  <date>2018-12-02T12:24:35</date>
+  <millis>1543771475875</millis>
+  <sequence>12</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T12:26:12</date>
+  <millis>1543771572583</millis>
+  <sequence>0</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica1 running...</message>
+</record>
+<record>
+  <date>2018-12-02T12:26:12</date>
+  <millis>1543771572593</millis>
+  <sequence>1</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>UDP</method>
+  <thread>12</thread>
+  <message>Replica1 running...</message>
+</record>
+<record>
+  <date>2018-12-02T12:26:45</date>
+  <millis>1543771605968</millis>
+  <sequence>2</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T12:26:45</date>
+  <millis>1543771605991</millis>
+  <sequence>3</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 7</message>
+</record>
+<record>
+  <date>2018-12-02T12:26:46</date>
+  <millis>1543771606008</millis>
+  <sequence>4</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-02T12:27:02</date>
+  <millis>1543771622994</millis>
+  <sequence>5</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>UDP</method>
+  <thread>12</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T12:27:02</date>
+  <millis>1543771622997</millis>
+  <sequence>6</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>UDP</method>
+  <thread>12</thread>
+  <message>SeqID: 0</message>
+</record>
+<record>
+  <date>2018-12-02T12:27:15</date>
+  <millis>1543771635807</millis>
+  <sequence>7</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T12:27:15</date>
+  <millis>1543771635810</millis>
+  <sequence>8</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 9</message>
+</record>
+<record>
+  <date>2018-12-02T12:27:15</date>
+  <millis>1543771635813</millis>
+  <sequence>9</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-02T12:28:22</date>
+  <millis>1543771702172</millis>
+  <sequence>10</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T12:28:22</date>
+  <millis>1543771702175</millis>
+  <sequence>11</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 10</message>
+</record>
+<record>
+  <date>2018-12-02T12:28:22</date>
+  <millis>1543771702178</millis>
+  <sequence>12</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-02T12:28:44</date>
+  <millis>1543771724820</millis>
+  <sequence>13</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T12:28:44</date>
+  <millis>1543771724822</millis>
+  <sequence>14</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 11</message>
+</record>
+<record>
+  <date>2018-12-02T12:28:44</date>
+  <millis>1543771724825</millis>
+  <sequence>15</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-02T12:29:03</date>
+  <millis>1543771743870</millis>
+  <sequence>16</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T12:29:03</date>
+  <millis>1543771743873</millis>
+  <sequence>17</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 12</message>
+</record>
+<record>
+  <date>2018-12-02T12:29:03</date>
+  <millis>1543771743876</millis>
+  <sequence>18</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-02T12:31:47</date>
+  <millis>1543771907264</millis>
+  <sequence>19</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T12:31:47</date>
+  <millis>1543771907266</millis>
+  <sequence>20</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 13</message>
+</record>
+<record>
+  <date>2018-12-02T12:31:47</date>
+  <millis>1543771907270</millis>
+  <sequence>21</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-02T12:33:53</date>
+  <millis>1543772033859</millis>
+  <sequence>22</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T12:33:53</date>
+  <millis>1543772033862</millis>
+  <sequence>23</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 17</message>
+</record>
+<record>
+  <date>2018-12-02T12:33:53</date>
+  <millis>1543772033871</millis>
+  <sequence>24</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-02T12:34:16</date>
+  <millis>1543772056841</millis>
+  <sequence>25</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>UDP</method>
+  <thread>12</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T12:34:16</date>
+  <millis>1543772056844</millis>
+  <sequence>26</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>UDP</method>
+  <thread>12</thread>
+  <message>SeqID: 0</message>
+</record>
+<record>
+  <date>2018-12-02T12:48:03</date>
+  <millis>1543772883368</millis>
+  <sequence>27</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T12:48:03</date>
+  <millis>1543772883371</millis>
+  <sequence>28</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 19</message>
+</record>
+<record>
+  <date>2018-12-02T12:48:03</date>
+  <millis>1543772883374</millis>
+  <sequence>29</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-02T12:48:19</date>
+  <millis>1543772899733</millis>
+  <sequence>30</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T12:48:19</date>
+  <millis>1543772899736</millis>
+  <sequence>31</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 20</message>
+</record>
+<record>
+  <date>2018-12-02T12:48:19</date>
+  <millis>1543772899738</millis>
+  <sequence>32</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T13:03:07</date>
+  <millis>1543773787899</millis>
+  <sequence>1</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>UDP</method>
+  <thread>12</thread>
+  <message>Replica1 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T13:12:22</date>
+  <millis>1543774342953</millis>
+  <sequence>0</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>UDP</method>
+  <thread>12</thread>
+  <message>Replica1 running...</message>
+</record>
+<record>
+  <date>2018-12-02T13:12:22</date>
+  <millis>1543774342953</millis>
+  <sequence>1</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica1 running...</message>
+</record>
+<record>
+  <date>2018-12-02T13:13:03</date>
+  <millis>1543774383114</millis>
+  <sequence>2</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T13:13:03</date>
+  <millis>1543774383138</millis>
+  <sequence>3</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 12</message>
+</record>
+<record>
+  <date>2018-12-02T13:13:03</date>
+  <millis>1543774383154</millis>
+  <sequence>4</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T13:32:02</date>
+  <millis>1543775522007</millis>
+  <sequence>0</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>UDP</method>
+  <thread>12</thread>
+  <message>Replica1 running...</message>
+</record>
+<record>
+  <date>2018-12-02T13:32:02</date>
+  <millis>1543775522009</millis>
+  <sequence>1</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica1 running...</message>
+</record>
+<record>
+  <date>2018-12-02T13:34:57</date>
+  <millis>1543775697983</millis>
+  <sequence>2</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T13:34:58</date>
+  <millis>1543775698007</millis>
+  <sequence>3</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 14</message>
+</record>
+<record>
+  <date>2018-12-02T13:34:58</date>
+  <millis>1543775698023</millis>
+  <sequence>4</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-02T13:35:25</date>
+  <millis>1543775725352</millis>
+  <sequence>5</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>UDP</method>
+  <thread>12</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T13:35:25</date>
+  <millis>1543775725354</millis>
+  <sequence>6</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>UDP</method>
+  <thread>12</thread>
+  <message>SeqID: 0</message>
+</record>
+<record>
+  <date>2018-12-02T13:35:57</date>
+  <millis>1543775757767</millis>
+  <sequence>7</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T13:35:57</date>
+  <millis>1543775757771</millis>
+  <sequence>8</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 16</message>
+</record>
+<record>
+  <date>2018-12-02T13:35:57</date>
+  <millis>1543775757774</millis>
+  <sequence>9</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-02T13:45:32</date>
+  <millis>1543776332724</millis>
+  <sequence>10</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>UDP</method>
+  <thread>12</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T13:45:32</date>
+  <millis>1543776332727</millis>
+  <sequence>11</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>UDP</method>
+  <thread>12</thread>
+  <message>SeqID: 0</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T14:03:57</date>
+  <millis>1543777437846</millis>
+  <sequence>0</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>UDP</method>
+  <thread>12</thread>
+  <message>Replica1 running...</message>
+</record>
+<record>
+  <date>2018-12-02T14:03:57</date>
+  <millis>1543777437846</millis>
+  <sequence>1</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica1 running...</message>
+</record>
+<record>
+  <date>2018-12-02T14:04:58</date>
+  <millis>1543777498404</millis>
+  <sequence>2</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T14:04:58</date>
+  <millis>1543777498427</millis>
+  <sequence>3</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 19</message>
+</record>
+<record>
+  <date>2018-12-02T14:04:58</date>
+  <millis>1543777498443</millis>
+  <sequence>4</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-02T14:05:17</date>
+  <millis>1543777517723</millis>
+  <sequence>5</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T14:05:17</date>
+  <millis>1543777517728</millis>
+  <sequence>6</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 20</message>
+</record>
+<record>
+  <date>2018-12-02T14:05:17</date>
+  <millis>1543777517733</millis>
+  <sequence>7</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-02T14:05:27</date>
+  <millis>1543777527726</millis>
+  <sequence>8</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T14:05:27</date>
+  <millis>1543777527731</millis>
+  <sequence>9</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 21</message>
+</record>
+<record>
+  <date>2018-12-02T14:05:27</date>
+  <millis>1543777527738</millis>
+  <sequence>10</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-02T14:05:37</date>
+  <millis>1543777537764</millis>
+  <sequence>11</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>UDP</method>
+  <thread>12</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T14:05:37</date>
+  <millis>1543777537770</millis>
+  <sequence>12</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>UDP</method>
+  <thread>12</thread>
+  <message>SeqID: 0</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T14:11:49</date>
+  <millis>1543777909250</millis>
+  <sequence>0</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>UDP</method>
+  <thread>12</thread>
+  <message>Replica1 running...</message>
+</record>
+<record>
+  <date>2018-12-02T14:12:29</date>
+  <millis>1543777949198</millis>
+  <sequence>3</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>UDP</method>
+  <thread>12</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T14:12:29</date>
+  <millis>1543777949200</millis>
+  <sequence>4</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>UDP</method>
+  <thread>12</thread>
+  <message>SeqID: 0</message>
+</record>
+<record>
+  <date>2018-12-02T14:13:12</date>
+  <millis>1543777992658</millis>
+  <sequence>5</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>UDP</method>
+  <thread>12</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T14:13:12</date>
+  <millis>1543777992660</millis>
+  <sequence>6</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>UDP</method>
+  <thread>12</thread>
+  <message>SeqID: 0</message>
+</record>
+<record>
+  <date>2018-12-02T14:14:34</date>
+  <millis>1543778074108</millis>
+  <sequence>7</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>UDP</method>
+  <thread>12</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T14:14:34</date>
+  <millis>1543778074110</millis>
+  <sequence>8</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>UDP</method>
+  <thread>12</thread>
+  <message>SeqID: 0</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T14:15:07</date>
+  <millis>1543778107554</millis>
+  <sequence>0</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>UDP</method>
+  <thread>12</thread>
+  <message>Replica1 running...</message>
+</record>
+<record>
+  <date>2018-12-02T14:15:07</date>
+  <millis>1543778107555</millis>
+  <sequence>1</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica1 running...</message>
+</record>
+<record>
+  <date>2018-12-02T14:15:25</date>
+  <millis>1543778125911</millis>
+  <sequence>2</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T14:15:25</date>
+  <millis>1543778125936</millis>
+  <sequence>3</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 28</message>
+</record>
+<record>
+  <date>2018-12-02T14:15:25</date>
+  <millis>1543778125941</millis>
+  <sequence>4</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-02T14:15:45</date>
+  <millis>1543778145939</millis>
+  <sequence>5</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>UDP</method>
+  <thread>12</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T14:15:45</date>
+  <millis>1543778145941</millis>
+  <sequence>6</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>UDP</method>
+  <thread>12</thread>
+  <message>SeqID: 0</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T14:19:21</date>
+  <millis>1543778361638</millis>
+  <sequence>0</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>UDP</method>
+  <thread>12</thread>
+  <message>Replica1 running...</message>
+</record>
+<record>
+  <date>2018-12-02T14:19:55</date>
+  <millis>1543778395714</millis>
+  <sequence>3</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>UDP</method>
+  <thread>12</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T14:19:55</date>
+  <millis>1543778395716</millis>
+  <sequence>4</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>UDP</method>
+  <thread>12</thread>
+  <message>SeqID: 0</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T14:22:24</date>
+  <millis>1543778544474</millis>
+  <sequence>0</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>UDP</method>
+  <thread>12</thread>
+  <message>Replica1 running...</message>
+</record>
+<record>
+  <date>2018-12-02T14:22:24</date>
+  <millis>1543778544476</millis>
+  <sequence>1</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica1 running...</message>
+</record>
+<record>
+  <date>2018-12-02T14:22:41</date>
+  <millis>1543778561283</millis>
+  <sequence>2</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T14:22:41</date>
+  <millis>1543778561310</millis>
+  <sequence>3</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 34</message>
+</record>
+<record>
+  <date>2018-12-02T14:22:41</date>
+  <millis>1543778561315</millis>
+  <sequence>4</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-02T14:23:17</date>
+  <millis>1543778597335</millis>
+  <sequence>5</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>UDP</method>
+  <thread>12</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T14:23:17</date>
+  <millis>1543778597337</millis>
+  <sequence>6</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>UDP</method>
+  <thread>12</thread>
+  <message>SeqID: 0</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T14:29:25</date>
+  <millis>1543778965028</millis>
+  <sequence>0</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>UDP</method>
+  <thread>12</thread>
+  <message>Replica1 running...</message>
+</record>
+<record>
+  <date>2018-12-02T14:29:25</date>
+  <millis>1543778965032</millis>
+  <sequence>1</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica1 running...</message>
+</record>
+<record>
+  <date>2018-12-02T14:30:15</date>
+  <millis>1543779015825</millis>
+  <sequence>2</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T14:30:15</date>
+  <millis>1543779015848</millis>
+  <sequence>3</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 1</message>
+</record>
+<record>
+  <date>2018-12-02T14:30:15</date>
+  <millis>1543779015852</millis>
+  <sequence>4</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-02T14:30:53</date>
+  <millis>1543779053157</millis>
+  <sequence>5</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T14:30:53</date>
+  <millis>1543779053160</millis>
+  <sequence>6</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 3</message>
+</record>
+<record>
+  <date>2018-12-02T14:30:53</date>
+  <millis>1543779053177</millis>
+  <sequence>7</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-02T14:31:15</date>
+  <millis>1543779075468</millis>
+  <sequence>8</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T14:31:15</date>
+  <millis>1543779075471</millis>
+  <sequence>9</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 4</message>
+</record>
+<record>
+  <date>2018-12-02T14:31:15</date>
+  <millis>1543779075473</millis>
+  <sequence>10</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-02T14:32:25</date>
+  <millis>1543779145866</millis>
+  <sequence>11</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-02T14:32:25</date>
+  <millis>1543779145869</millis>
+  <sequence>12</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 5</message>
+</record>
+<record>
+  <date>2018-12-02T14:32:25</date>
+  <millis>1543779145872</millis>
+  <sequence>13</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-03T02:29:57</date>
+  <millis>1543822197888</millis>
+  <sequence>0</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica1 running...</message>
+</record>
+<record>
+  <date>2018-12-03T02:30:45</date>
+  <millis>1543822245520</millis>
+  <sequence>1</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-03T02:30:45</date>
+  <millis>1543822245551</millis>
+  <sequence>2</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 13</message>
+</record>
+<record>
+  <date>2018-12-03T02:30:45</date>
+  <millis>1543822245567</millis>
+  <sequence>3</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T02:30:57</date>
+  <millis>1543822257947</millis>
+  <sequence>4</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-03T02:30:57</date>
+  <millis>1543822257949</millis>
+  <sequence>5</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 14</message>
+</record>
+<record>
+  <date>2018-12-03T02:30:57</date>
+  <millis>1543822257962</millis>
+  <sequence>6</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T02:31:42</date>
+  <millis>1543822302883</millis>
+  <sequence>7</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-03T02:31:42</date>
+  <millis>1543822302886</millis>
+  <sequence>8</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 15</message>
+</record>
+<record>
+  <date>2018-12-03T02:31:42</date>
+  <millis>1543822302888</millis>
+  <sequence>9</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T02:32:36</date>
+  <millis>1543822356271</millis>
+  <sequence>10</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-03T02:32:36</date>
+  <millis>1543822356274</millis>
+  <sequence>11</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 16</message>
+</record>
+<record>
+  <date>2018-12-03T02:32:36</date>
+  <millis>1543822356277</millis>
+  <sequence>12</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T02:33:07</date>
+  <millis>1543822387264</millis>
+  <sequence>13</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-03T02:33:07</date>
+  <millis>1543822387267</millis>
+  <sequence>14</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 17</message>
+</record>
+</log>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-03T02:37:25</date>
+  <millis>1543822645807</millis>
+  <sequence>0</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica1 running...</message>
+</record>
+<record>
+  <date>2018-12-03T02:38:11</date>
+  <millis>1543822691002</millis>
+  <sequence>1</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-03T02:38:11</date>
+  <millis>1543822691026</millis>
+  <sequence>2</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 20</message>
+</record>
+<record>
+  <date>2018-12-03T02:38:11</date>
+  <millis>1543822691041</millis>
+  <sequence>3</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T02:38:26</date>
+  <millis>1543822706579</millis>
+  <sequence>4</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-03T02:38:26</date>
+  <millis>1543822706582</millis>
+  <sequence>5</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 21</message>
+</record>
+<record>
+  <date>2018-12-03T02:38:26</date>
+  <millis>1543822706594</millis>
+  <sequence>6</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T02:39:47</date>
+  <millis>1543822787362</millis>
+  <sequence>7</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-03T02:39:47</date>
+  <millis>1543822787365</millis>
+  <sequence>8</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 22</message>
+</record>
+<record>
+  <date>2018-12-03T02:39:47</date>
+  <millis>1543822787368</millis>
+  <sequence>9</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-03T02:42:42</date>
+  <millis>1543822962352</millis>
+  <sequence>0</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica1 running...</message>
+</record>
+<record>
+  <date>2018-12-03T02:44:37</date>
+  <millis>1543823077105</millis>
+  <sequence>1</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-03T02:44:37</date>
+  <millis>1543823077128</millis>
+  <sequence>2</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 24</message>
+</record>
+<record>
+  <date>2018-12-03T02:44:37</date>
+  <millis>1543823077145</millis>
+  <sequence>3</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T02:45:07</date>
+  <millis>1543823107886</millis>
+  <sequence>4</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-03T02:45:07</date>
+  <millis>1543823107889</millis>
+  <sequence>5</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 25</message>
+</record>
+<record>
+  <date>2018-12-03T02:45:07</date>
+  <millis>1543823107891</millis>
+  <sequence>6</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T02:49:52</date>
+  <millis>1543823392686</millis>
+  <sequence>7</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-03T02:49:52</date>
+  <millis>1543823392689</millis>
+  <sequence>8</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 26</message>
+</record>
+<record>
+  <date>2018-12-03T02:49:52</date>
+  <millis>1543823392692</millis>
+  <sequence>9</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T02:50:02</date>
+  <millis>1543823402687</millis>
+  <sequence>10</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-03T02:50:02</date>
+  <millis>1543823402691</millis>
+  <sequence>11</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 27</message>
+</record>
+<record>
+  <date>2018-12-03T02:50:02</date>
+  <millis>1543823402693</millis>
+  <sequence>12</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T02:50:51</date>
+  <millis>1543823451399</millis>
+  <sequence>13</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-03T02:50:51</date>
+  <millis>1543823451403</millis>
+  <sequence>14</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 28</message>
+</record>
+<record>
+  <date>2018-12-03T02:50:51</date>
+  <millis>1543823451406</millis>
+  <sequence>15</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-03T02:52:12</date>
+  <millis>1543823532200</millis>
+  <sequence>0</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica1 running...</message>
+</record>
+<record>
+  <date>2018-12-03T02:53:00</date>
+  <millis>1543823580195</millis>
+  <sequence>1</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-03T02:53:00</date>
+  <millis>1543823580218</millis>
+  <sequence>2</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 31</message>
+</record>
+<record>
+  <date>2018-12-03T02:53:00</date>
+  <millis>1543823580222</millis>
+  <sequence>3</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T02:53:16</date>
+  <millis>1543823596322</millis>
+  <sequence>4</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-03T02:53:16</date>
+  <millis>1543823596325</millis>
+  <sequence>5</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 32</message>
+</record>
+<record>
+  <date>2018-12-03T02:53:16</date>
+  <millis>1543823596339</millis>
+  <sequence>6</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T02:53:26</date>
+  <millis>1543823606753</millis>
+  <sequence>7</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-03T02:53:26</date>
+  <millis>1543823606755</millis>
+  <sequence>8</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 33</message>
+</record>
+<record>
+  <date>2018-12-03T02:53:26</date>
+  <millis>1543823606766</millis>
+  <sequence>9</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T02:54:07</date>
+  <millis>1543823647474</millis>
+  <sequence>10</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-03T02:54:07</date>
+  <millis>1543823647477</millis>
+  <sequence>11</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 34</message>
+</record>
+<record>
+  <date>2018-12-03T02:54:07</date>
+  <millis>1543823647480</millis>
+  <sequence>12</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-03T02:57:18</date>
+  <millis>1543823838393</millis>
+  <sequence>0</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>UDP</method>
+  <thread>12</thread>
+  <message>Replica1 running...</message>
+</record>
+<record>
+  <date>2018-12-03T02:59:33</date>
+  <millis>1543823973679</millis>
+  <sequence>3</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>UDP</method>
+  <thread>12</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-03T02:59:33</date>
+  <millis>1543823973681</millis>
+  <sequence>4</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>UDP</method>
+  <thread>12</thread>
+  <message>SeqID: 0</message>
+</record>
+<record>
+  <date>2018-12-03T02:59:33</date>
+  <millis>1543823973684</millis>
+  <sequence>5</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>UDP</method>
+  <thread>12</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-03T02:59:33</date>
+  <millis>1543823973685</millis>
+  <sequence>6</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>UDP</method>
+  <thread>12</thread>
+  <message>SeqID: 0</message>
+</record>
+<record>
+  <date>2018-12-03T02:59:46</date>
+  <millis>1543823986710</millis>
+  <sequence>7</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>UDP</method>
+  <thread>12</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-03T02:59:46</date>
+  <millis>1543823986711</millis>
+  <sequence>8</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>UDP</method>
+  <thread>12</thread>
+  <message>SeqID: 0</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-03T03:32:33</date>
+  <millis>1543825953258</millis>
+  <sequence>0</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica1 running...</message>
+</record>
+<record>
+  <date>2018-12-03T03:36:30</date>
+  <millis>1543826190108</millis>
+  <sequence>1</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-03T03:36:30</date>
+  <millis>1543826190132</millis>
+  <sequence>2</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 9</message>
+</record>
+<record>
+  <date>2018-12-03T03:36:30</date>
+  <millis>1543826190151</millis>
+  <sequence>3</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-03T03:44:37</date>
+  <millis>1543826677812</millis>
+  <sequence>0</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>UDP</method>
+  <thread>12</thread>
+  <message>Replica1 running...</message>
+</record>
+<record>
+  <date>2018-12-03T03:44:57</date>
+  <millis>1543826697123</millis>
+  <sequence>3</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>UDP</method>
+  <thread>12</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-03T03:44:57</date>
+  <millis>1543826697125</millis>
+  <sequence>4</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>UDP</method>
+  <thread>12</thread>
+  <message>SeqID: 0</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-03T03:47:14</date>
+  <millis>1543826834753</millis>
+  <sequence>0</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica1 running...</message>
+</record>
+<record>
+  <date>2018-12-03T03:48:11</date>
+  <millis>1543826891428</millis>
+  <sequence>1</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-03T03:48:11</date>
+  <millis>1543826891451</millis>
+  <sequence>2</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 13</message>
+</record>
+<record>
+  <date>2018-12-03T03:48:11</date>
+  <millis>1543826891487</millis>
+  <sequence>3</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T03:48:26</date>
+  <millis>1543826906361</millis>
+  <sequence>4</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-03T03:48:26</date>
+  <millis>1543826906366</millis>
+  <sequence>5</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 15</message>
+</record>
+<record>
+  <date>2018-12-03T03:48:26</date>
+  <millis>1543826906380</millis>
+  <sequence>6</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T03:48:50</date>
+  <millis>1543826930096</millis>
+  <sequence>7</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-03T03:48:50</date>
+  <millis>1543826930099</millis>
+  <sequence>8</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 17</message>
+</record>
+<record>
+  <date>2018-12-03T03:48:50</date>
+  <millis>1543826930111</millis>
+  <sequence>9</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T03:49:00</date>
+  <millis>1543826940444</millis>
+  <sequence>10</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-03T03:49:00</date>
+  <millis>1543826940447</millis>
+  <sequence>11</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 19</message>
+</record>
+<record>
+  <date>2018-12-03T03:49:00</date>
+  <millis>1543826940457</millis>
+  <sequence>12</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T03:49:13</date>
+  <millis>1543826953220</millis>
+  <sequence>13</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-03T03:49:13</date>
+  <millis>1543826953225</millis>
+  <sequence>14</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 21</message>
+</record>
+<record>
+  <date>2018-12-03T03:49:13</date>
+  <millis>1543826953238</millis>
+  <sequence>15</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T03:49:22</date>
+  <millis>1543826962342</millis>
+  <sequence>16</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-03T03:49:22</date>
+  <millis>1543826962345</millis>
+  <sequence>17</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 23</message>
+</record>
+<record>
+  <date>2018-12-03T03:49:22</date>
+  <millis>1543826962358</millis>
+  <sequence>18</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T03:49:36</date>
+  <millis>1543826976302</millis>
+  <sequence>19</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-03T03:49:36</date>
+  <millis>1543826976306</millis>
+  <sequence>20</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 25</message>
+</record>
+<record>
+  <date>2018-12-03T03:49:36</date>
+  <millis>1543826976318</millis>
+  <sequence>21</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T03:49:49</date>
+  <millis>1543826989736</millis>
+  <sequence>22</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-03T03:49:49</date>
+  <millis>1543826989739</millis>
+  <sequence>23</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 27</message>
+</record>
+<record>
+  <date>2018-12-03T03:49:49</date>
+  <millis>1543826989753</millis>
+  <sequence>24</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T03:50:14</date>
+  <millis>1543827014546</millis>
+  <sequence>25</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-03T03:50:14</date>
+  <millis>1543827014550</millis>
+  <sequence>26</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 28</message>
+</record>
+<record>
+  <date>2018-12-03T03:50:14</date>
+  <millis>1543827014561</millis>
+  <sequence>27</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T03:50:18</date>
+  <millis>1543827018133</millis>
+  <sequence>28</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>while..received</message>
+</record>
+<record>
+  <date>2018-12-03T03:50:18</date>
+  <millis>1543827018136</millis>
+  <sequence>29</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>SeqID: 29</message>
+</record>
+<record>
+  <date>2018-12-03T03:50:18</date>
+  <millis>1543827018145</millis>
+  <sequence>30</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-03T03:54:15</date>
+  <millis>1543827255690</millis>
+  <sequence>0</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>UDP</method>
+  <thread>12</thread>
+  <message>Replica1 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-03T03:54:39</date>
+  <millis>1543827279201</millis>
+  <sequence>0</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica1 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-03T04:04:08</date>
+  <millis>1543827848911</millis>
+  <sequence>0</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>UDP</method>
+  <thread>12</thread>
+  <message>Replica1 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-03T04:04:25</date>
+  <millis>1543827865846</millis>
+  <sequence>0</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica1 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-03T04:11:04</date>
+  <millis>1543828264350</millis>
+  <sequence>0</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>UDP</method>
+  <thread>12</thread>
+  <message>Replica1 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-03T04:11:31</date>
+  <millis>1543828291091</millis>
+  <sequence>0</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica1 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-03T08:35:12</date>
+  <millis>1543844112851</millis>
+  <sequence>0</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica1 running...</message>
+</record>
+<record>
+  <date>2018-12-03T08:35:12</date>
+  <millis>1543844112851</millis>
+  <sequence>1</sequence>
+  <logger>ServerCOMP</logger>
+  <level>INFO</level>
+  <class>Replica1.Server1</class>
+  <method>UDP</method>
+  <thread>12</thread>
+  <message>Replica1 running...</message>
+</record>

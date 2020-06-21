@@ -1,0 +1,6 @@
+module modInter{
+	interface IDLInter{
+	 string receiveAndForwardRequest(in string courseID, in string semester, in long capacity, in string userID, in string studentID,in string oldCourseID, in string newCourseID, in long operationID, in long sequenceID, in string department,in string error, in string replicaNumber, in boolean ack) ;
+	void startReceiving(in string strReply,in long port,in string whichReplica);
+	};
+};

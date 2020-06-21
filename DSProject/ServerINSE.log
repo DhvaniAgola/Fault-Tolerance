@@ -1,0 +1,1893 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T10:52:33</date>
+  <millis>1543765953985</millis>
+  <sequence>0</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica3 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T10:54:55</date>
+  <millis>1543766095479</millis>
+  <sequence>0</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica3 running...</message>
+</record>
+<record>
+  <date>2018-12-02T10:55:35</date>
+  <millis>1543766135290</millis>
+  <sequence>1</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T11:15:55</date>
+  <millis>1543767355383</millis>
+  <sequence>0</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica3 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T11:17:34</date>
+  <millis>1543767454225</millis>
+  <sequence>0</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica3 running...</message>
+</record>
+<record>
+  <date>2018-12-02T11:20:24</date>
+  <millis>1543767624327</millis>
+  <sequence>4</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T11:25:00</date>
+  <millis>1543767900358</millis>
+  <sequence>0</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica3 running...</message>
+</record>
+<record>
+  <date>2018-12-02T11:25:15</date>
+  <millis>1543767915834</millis>
+  <sequence>2</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T11:27:31</date>
+  <millis>1543768051591</millis>
+  <sequence>0</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica3 running...</message>
+</record>
+<record>
+  <date>2018-12-02T11:27:52</date>
+  <millis>1543768072014</millis>
+  <sequence>2</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T11:31:58</date>
+  <millis>1543768318429</millis>
+  <sequence>0</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica3 running...</message>
+</record>
+<record>
+  <date>2018-12-02T11:32:09</date>
+  <millis>1543768329020</millis>
+  <sequence>2</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T11:33:47</date>
+  <millis>1543768427494</millis>
+  <sequence>0</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica3 running...</message>
+</record>
+<record>
+  <date>2018-12-02T11:33:55</date>
+  <millis>1543768435533</millis>
+  <sequence>2</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T11:34:57</date>
+  <millis>1543768497528</millis>
+  <sequence>0</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica3 running...</message>
+</record>
+<record>
+  <date>2018-12-02T11:35:07</date>
+  <millis>1543768507343</millis>
+  <sequence>2</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T11:36:29</date>
+  <millis>1543768589268</millis>
+  <sequence>0</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica3 running...</message>
+</record>
+<record>
+  <date>2018-12-02T11:36:36</date>
+  <millis>1543768596579</millis>
+  <sequence>2</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T11:40:40</date>
+  <millis>1543768840497</millis>
+  <sequence>0</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica3 running...</message>
+</record>
+<record>
+  <date>2018-12-02T11:40:46</date>
+  <millis>1543768846463</millis>
+  <sequence>2</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T11:43:50</date>
+  <millis>1543769030480</millis>
+  <sequence>0</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica3 running...</message>
+</record>
+<record>
+  <date>2018-12-02T11:44:08</date>
+  <millis>1543769048377</millis>
+  <sequence>2</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T11:52:27</date>
+  <millis>1543769547009</millis>
+  <sequence>0</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica3 running...</message>
+</record>
+<record>
+  <date>2018-12-02T11:53:25</date>
+  <millis>1543769605511</millis>
+  <sequence>2</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-02T11:54:29</date>
+  <millis>1543769669348</millis>
+  <sequence>7</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-02T11:57:43</date>
+  <millis>1543769863959</millis>
+  <sequence>8</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-02T12:03:15</date>
+  <millis>1543770195115</millis>
+  <sequence>9</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T12:04:30</date>
+  <millis>1543770270410</millis>
+  <sequence>0</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica3 running...</message>
+</record>
+<record>
+  <date>2018-12-02T12:04:56</date>
+  <millis>1543770296247</millis>
+  <sequence>2</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-02T12:05:44</date>
+  <millis>1543770344214</millis>
+  <sequence>7</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T12:13:40</date>
+  <millis>1543770820378</millis>
+  <sequence>0</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica3 running...</message>
+</record>
+<record>
+  <date>2018-12-02T12:14:03</date>
+  <millis>1543770843250</millis>
+  <sequence>2</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-02T12:14:44</date>
+  <millis>1543770884926</millis>
+  <sequence>7</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T12:26:14</date>
+  <millis>1543771574588</millis>
+  <sequence>0</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica3 running...</message>
+</record>
+<record>
+  <date>2018-12-02T12:26:34</date>
+  <millis>1543771594654</millis>
+  <sequence>2</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-02T12:27:02</date>
+  <millis>1543771622999</millis>
+  <sequence>7</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-02T12:32:23</date>
+  <millis>1543771943932</millis>
+  <sequence>8</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-02T12:32:38</date>
+  <millis>1543771958780</millis>
+  <sequence>9</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-02T12:32:59</date>
+  <millis>1543771979539</millis>
+  <sequence>10</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-02T12:34:16</date>
+  <millis>1543772056882</millis>
+  <sequence>15</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T13:03:13</date>
+  <millis>1543773793819</millis>
+  <sequence>0</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica3 running...</message>
+</record>
+<record>
+  <date>2018-12-02T13:03:34</date>
+  <millis>1543773814199</millis>
+  <sequence>2</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T13:12:26</date>
+  <millis>1543774346999</millis>
+  <sequence>0</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica3 running...</message>
+</record>
+<record>
+  <date>2018-12-02T13:12:46</date>
+  <millis>1543774366136</millis>
+  <sequence>2</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T13:32:07</date>
+  <millis>1543775527790</millis>
+  <sequence>0</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica3 running...</message>
+</record>
+<record>
+  <date>2018-12-02T13:34:26</date>
+  <millis>1543775666864</millis>
+  <sequence>2</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-02T13:35:25</date>
+  <millis>1543775725357</millis>
+  <sequence>7</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-02T13:45:32</date>
+  <millis>1543776332753</millis>
+  <sequence>8</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T14:04:00</date>
+  <millis>1543777440297</millis>
+  <sequence>0</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica3 running...</message>
+</record>
+<record>
+  <date>2018-12-02T14:05:37</date>
+  <millis>1543777537789</millis>
+  <sequence>2</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T14:11:50</date>
+  <millis>1543777910329</millis>
+  <sequence>0</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica3 running...</message>
+</record>
+<record>
+  <date>2018-12-02T14:12:29</date>
+  <millis>1543777949203</millis>
+  <sequence>2</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-02T14:13:12</date>
+  <millis>1543777992662</millis>
+  <sequence>3</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-02T14:14:34</date>
+  <millis>1543778074112</millis>
+  <sequence>4</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T14:15:09</date>
+  <millis>1543778109843</millis>
+  <sequence>0</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica3 running...</message>
+</record>
+<record>
+  <date>2018-12-02T14:15:45</date>
+  <millis>1543778145950</millis>
+  <sequence>2</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T14:19:22</date>
+  <millis>1543778362958</millis>
+  <sequence>0</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica3 running...</message>
+</record>
+<record>
+  <date>2018-12-02T14:19:55</date>
+  <millis>1543778395718</millis>
+  <sequence>2</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T14:22:26</date>
+  <millis>1543778546103</millis>
+  <sequence>0</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica3 running...</message>
+</record>
+<record>
+  <date>2018-12-02T14:23:17</date>
+  <millis>1543778597345</millis>
+  <sequence>2</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T14:29:29</date>
+  <millis>1543778969183</millis>
+  <sequence>0</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica3 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-03T02:30:06</date>
+  <millis>1543822206179</millis>
+  <sequence>0</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica3 running...</message>
+</record>
+<record>
+  <date>2018-12-03T02:30:22</date>
+  <millis>1543822222713</millis>
+  <sequence>2</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-03T02:37:33</date>
+  <millis>1543822653433</millis>
+  <sequence>0</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica3 running...</message>
+</record>
+<record>
+  <date>2018-12-03T02:37:41</date>
+  <millis>1543822661775</millis>
+  <sequence>2</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-03T02:42:45</date>
+  <millis>1543822965957</millis>
+  <sequence>0</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica3 running...</message>
+</record>
+<record>
+  <date>2018-12-03T02:42:48</date>
+  <millis>1543822968482</millis>
+  <sequence>2</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-03T02:52:15</date>
+  <millis>1543823535233</millis>
+  <sequence>0</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica3 running...</message>
+</record>
+<record>
+  <date>2018-12-03T02:52:25</date>
+  <millis>1543823545774</millis>
+  <sequence>2</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-03T02:57:18</date>
+  <millis>1543823838396</millis>
+  <sequence>1</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica3 running...</message>
+</record>
+<record>
+  <date>2018-12-03T02:58:41</date>
+  <millis>1543823921303</millis>
+  <sequence>2</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-03T03:32:38</date>
+  <millis>1543825958730</millis>
+  <sequence>0</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica3 running...</message>
+</record>
+<record>
+  <date>2018-12-03T03:32:57</date>
+  <millis>1543825977700</millis>
+  <sequence>2</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T03:34:56</date>
+  <millis>1543826096405</millis>
+  <sequence>3</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T03:35:13</date>
+  <millis>1543826113449</millis>
+  <sequence>4</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T03:35:24</date>
+  <millis>1543826124533</millis>
+  <sequence>5</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-03T03:44:37</date>
+  <millis>1543826677815</millis>
+  <sequence>1</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica3 running...</message>
+</record>
+<record>
+  <date>2018-12-03T03:44:54</date>
+  <millis>1543826694093</millis>
+  <sequence>2</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-03T03:47:18</date>
+  <millis>1543826838430</millis>
+  <sequence>0</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica3 running...</message>
+</record>
+<record>
+  <date>2018-12-03T03:48:08</date>
+  <millis>1543826888453</millis>
+  <sequence>2</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T03:48:47</date>
+  <millis>1543826927093</millis>
+  <sequence>7</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T03:49:10</date>
+  <millis>1543826950221</millis>
+  <sequence>12</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T03:49:33</date>
+  <millis>1543826973302</millis>
+  <sequence>17</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-03T03:54:15</date>
+  <millis>1543827255695</millis>
+  <sequence>1</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica3 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-03T03:54:43</date>
+  <millis>1543827283040</millis>
+  <sequence>0</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica3 running...</message>
+</record>
+<record>
+  <date>2018-12-03T03:54:51</date>
+  <millis>1543827291561</millis>
+  <sequence>2</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T03:57:09</date>
+  <millis>1543827429293</millis>
+  <sequence>3</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T03:57:12</date>
+  <millis>1543827432293</millis>
+  <sequence>4</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T03:57:15</date>
+  <millis>1543827435295</millis>
+  <sequence>5</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-03T04:04:08</date>
+  <millis>1543827848915</millis>
+  <sequence>1</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica3 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-03T04:04:29</date>
+  <millis>1543827869747</millis>
+  <sequence>0</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica3 running...</message>
+</record>
+<record>
+  <date>2018-12-03T04:05:16</date>
+  <millis>1543827916885</millis>
+  <sequence>2</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T04:06:15</date>
+  <millis>1543827975342</millis>
+  <sequence>3</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T04:06:18</date>
+  <millis>1543827978343</millis>
+  <sequence>4</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T04:06:21</date>
+  <millis>1543827981346</millis>
+  <sequence>5</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-03T04:11:04</date>
+  <millis>1543828264354</millis>
+  <sequence>1</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica3 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-03T04:11:37</date>
+  <millis>1543828297352</millis>
+  <sequence>0</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica3 running...</message>
+</record>
+<record>
+  <date>2018-12-03T04:11:45</date>
+  <millis>1543828305481</millis>
+  <sequence>2</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T04:12:13</date>
+  <millis>1543828333171</millis>
+  <sequence>3</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T04:12:16</date>
+  <millis>1543828336173</millis>
+  <sequence>4</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T04:12:19</date>
+  <millis>1543828339175</millis>
+  <sequence>5</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T04:14:04</date>
+  <millis>1543828444334</millis>
+  <sequence>6</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T04:18:13</date>
+  <millis>1543828693028</millis>
+  <sequence>7</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-03T08:35:17</date>
+  <millis>1543844117788</millis>
+  <sequence>0</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica3 running...</message>
+</record>
+<record>
+  <date>2018-12-03T08:36:25</date>
+  <millis>1543844185785</millis>
+  <sequence>2</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T08:36:57</date>
+  <millis>1543844217609</millis>
+  <sequence>3</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T08:37:00</date>
+  <millis>1543844220617</millis>
+  <sequence>4</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T08:37:03</date>
+  <millis>1543844223627</millis>
+  <sequence>5</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-03T08:40:50</date>
+  <millis>1543844450536</millis>
+  <sequence>0</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica3 running...</message>
+</record>
+<record>
+  <date>2018-12-03T08:41:11</date>
+  <millis>1543844471654</millis>
+  <sequence>2</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T08:41:35</date>
+  <millis>1543844495042</millis>
+  <sequence>3</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T08:41:38</date>
+  <millis>1543844498045</millis>
+  <sequence>4</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T08:41:41</date>
+  <millis>1543844501045</millis>
+  <sequence>5</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-03T08:43:57</date>
+  <millis>1543844637081</millis>
+  <sequence>0</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica3 running...</message>
+</record>
+<record>
+  <date>2018-12-03T08:44:21</date>
+  <millis>1543844661980</millis>
+  <sequence>2</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-03T08:46:06</date>
+  <millis>1543844766907</millis>
+  <sequence>0</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica3 running...</message>
+</record>
+<record>
+  <date>2018-12-03T08:47:52</date>
+  <millis>1543844872441</millis>
+  <sequence>2</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T08:48:25</date>
+  <millis>1543844905695</millis>
+  <sequence>3</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T08:48:28</date>
+  <millis>1543844908707</millis>
+  <sequence>4</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T08:48:31</date>
+  <millis>1543844911720</millis>
+  <sequence>5</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-03T08:52:11</date>
+  <millis>1543845131979</millis>
+  <sequence>0</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica3 running...</message>
+</record>
+<record>
+  <date>2018-12-03T08:52:38</date>
+  <millis>1543845158377</millis>
+  <sequence>2</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T08:52:50</date>
+  <millis>1543845170845</millis>
+  <sequence>3</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T08:52:53</date>
+  <millis>1543845173851</millis>
+  <sequence>4</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T08:52:56</date>
+  <millis>1543845176866</millis>
+  <sequence>5</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-03T08:57:44</date>
+  <millis>1543845464767</millis>
+  <sequence>0</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica3 running...</message>
+</record>
+<record>
+  <date>2018-12-03T08:58:01</date>
+  <millis>1543845481201</millis>
+  <sequence>2</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T08:58:23</date>
+  <millis>1543845503509</millis>
+  <sequence>3</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T08:58:26</date>
+  <millis>1543845506507</millis>
+  <sequence>4</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T08:58:29</date>
+  <millis>1543845509519</millis>
+  <sequence>5</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-03T09:04:19</date>
+  <millis>1543845859278</millis>
+  <sequence>0</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica3 running...</message>
+</record>
+<record>
+  <date>2018-12-03T09:04:25</date>
+  <millis>1543845865086</millis>
+  <sequence>2</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T09:04:47</date>
+  <millis>1543845887896</millis>
+  <sequence>3</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T09:04:50</date>
+  <millis>1543845890910</millis>
+  <sequence>4</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T09:06:22</date>
+  <millis>1543845982223</millis>
+  <sequence>5</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T09:06:46</date>
+  <millis>1543846006029</millis>
+  <sequence>6</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T09:06:49</date>
+  <millis>1543846009041</millis>
+  <sequence>7</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-03T09:08:52</date>
+  <millis>1543846132166</millis>
+  <sequence>0</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica3 running...</message>
+</record>
+<record>
+  <date>2018-12-03T09:09:08</date>
+  <millis>1543846148891</millis>
+  <sequence>2</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T09:09:33</date>
+  <millis>1543846173129</millis>
+  <sequence>3</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T09:09:36</date>
+  <millis>1543846176129</millis>
+  <sequence>4</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T09:09:39</date>
+  <millis>1543846179129</millis>
+  <sequence>5</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-03T09:10:49</date>
+  <millis>1543846249121</millis>
+  <sequence>0</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica3 running...</message>
+</record>
+<record>
+  <date>2018-12-03T09:10:52</date>
+  <millis>1543846252125</millis>
+  <sequence>2</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T09:11:19</date>
+  <millis>1543846279550</millis>
+  <sequence>3</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T09:11:22</date>
+  <millis>1543846282549</millis>
+  <sequence>4</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T09:11:25</date>
+  <millis>1543846285553</millis>
+  <sequence>5</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T09:15:47</date>
+  <millis>1543846547899</millis>
+  <sequence>6</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T09:15:50</date>
+  <millis>1543846550930</millis>
+  <sequence>7</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T09:15:53</date>
+  <millis>1543846553915</millis>
+  <sequence>8</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T09:16:53</date>
+  <millis>1543846613104</millis>
+  <sequence>9</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T09:16:56</date>
+  <millis>1543846616103</millis>
+  <sequence>10</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T09:16:59</date>
+  <millis>1543846619103</millis>
+  <sequence>11</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T09:19:50</date>
+  <millis>1543846790423</millis>
+  <sequence>12</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T09:19:53</date>
+  <millis>1543846793426</millis>
+  <sequence>13</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T09:19:56</date>
+  <millis>1543846796433</millis>
+  <sequence>14</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T09:22:13</date>
+  <millis>1543846933733</millis>
+  <sequence>15</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T09:22:16</date>
+  <millis>1543846936718</millis>
+  <sequence>16</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T09:22:19</date>
+  <millis>1543846939721</millis>
+  <sequence>17</sequence>
+  <logger>ServerINSE</logger>
+  <level>INFO</level>
+  <class>Replica1.Server3</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>

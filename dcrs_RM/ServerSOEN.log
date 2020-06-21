@@ -1,0 +1,1095 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-01T00:42:31</date>
+  <millis>1543642951693</millis>
+  <sequence>0</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica2 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-01T00:52:51</date>
+  <millis>1543643571028</millis>
+  <sequence>0</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica2 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-01T18:16:15</date>
+  <millis>1543706175748</millis>
+  <sequence>0</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica2 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-01T18:59:08</date>
+  <millis>1543708748241</millis>
+  <sequence>0</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica2 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-01T19:06:27</date>
+  <millis>1543709187890</millis>
+  <sequence>0</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica2 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-01T19:11:47</date>
+  <millis>1543709507326</millis>
+  <sequence>0</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica2 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-01T21:08:58</date>
+  <millis>1543716538899</millis>
+  <sequence>0</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica2 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T14:35:39</date>
+  <millis>1543779339025</millis>
+  <sequence>0</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica2 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T14:52:54</date>
+  <millis>1543780374836</millis>
+  <sequence>0</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica2 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T15:07:26</date>
+  <millis>1543781246898</millis>
+  <sequence>0</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica2 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T15:25:13</date>
+  <millis>1543782313439</millis>
+  <sequence>0</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica2 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T15:35:10</date>
+  <millis>1543782910543</millis>
+  <sequence>0</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica2 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T15:39:55</date>
+  <millis>1543783195901</millis>
+  <sequence>0</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica2 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T16:11:27</date>
+  <millis>1543785087216</millis>
+  <sequence>0</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica2 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T16:25:24</date>
+  <millis>1543785924720</millis>
+  <sequence>0</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica2 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T16:35:19</date>
+  <millis>1543786519844</millis>
+  <sequence>0</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica2 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T16:53:45</date>
+  <millis>1543787625082</millis>
+  <sequence>0</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica2 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T17:01:31</date>
+  <millis>1543788091335</millis>
+  <sequence>0</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica2 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T17:05:04</date>
+  <millis>1543788304046</millis>
+  <sequence>0</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica2 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T17:07:39</date>
+  <millis>1543788459330</millis>
+  <sequence>0</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica2 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T17:14:41</date>
+  <millis>1543788881336</millis>
+  <sequence>0</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica2 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T17:15:52</date>
+  <millis>1543788952443</millis>
+  <sequence>0</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica2 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T17:24:40</date>
+  <millis>1543789480239</millis>
+  <sequence>0</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica2 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T17:37:46</date>
+  <millis>1543790266755</millis>
+  <sequence>0</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica2 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T17:58:16</date>
+  <millis>1543791496327</millis>
+  <sequence>0</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica2 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T18:09:15</date>
+  <millis>1543792155811</millis>
+  <sequence>0</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica2 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T18:30:55</date>
+  <millis>1543793455763</millis>
+  <sequence>0</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica2 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T19:00:01</date>
+  <millis>1543795201850</millis>
+  <sequence>0</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica2 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T19:25:05</date>
+  <millis>1543796705680</millis>
+  <sequence>0</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica2 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T19:25:57</date>
+  <millis>1543796757305</millis>
+  <sequence>0</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica2 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T19:29:07</date>
+  <millis>1543796947899</millis>
+  <sequence>0</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica2 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T19:36:20</date>
+  <millis>1543797380209</millis>
+  <sequence>0</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica2 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T19:39:14</date>
+  <millis>1543797554619</millis>
+  <sequence>0</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica2 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T19:47:05</date>
+  <millis>1543798025570</millis>
+  <sequence>0</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica2 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T19:54:00</date>
+  <millis>1543798440169</millis>
+  <sequence>0</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica2 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T20:19:58</date>
+  <millis>1543799998227</millis>
+  <sequence>0</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica2 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T20:22:04</date>
+  <millis>1543800124586</millis>
+  <sequence>0</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica2 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T20:26:12</date>
+  <millis>1543800372829</millis>
+  <sequence>0</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica2 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T20:48:45</date>
+  <millis>1543801725904</millis>
+  <sequence>0</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica2 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T20:53:51</date>
+  <millis>1543802031334</millis>
+  <sequence>0</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica2 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T21:02:15</date>
+  <millis>1543802535360</millis>
+  <sequence>0</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica2 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T21:07:26</date>
+  <millis>1543802846331</millis>
+  <sequence>0</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica2 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T21:10:01</date>
+  <millis>1543803001771</millis>
+  <sequence>0</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica2 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T21:14:38</date>
+  <millis>1543803278910</millis>
+  <sequence>0</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica2 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T21:18:01</date>
+  <millis>1543803481477</millis>
+  <sequence>0</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica2 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T21:23:28</date>
+  <millis>1543803808203</millis>
+  <sequence>0</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica2 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T21:27:29</date>
+  <millis>1543804049656</millis>
+  <sequence>0</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica2 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T21:41:11</date>
+  <millis>1543804871324</millis>
+  <sequence>0</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica2 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T21:51:34</date>
+  <millis>1543805494304</millis>
+  <sequence>0</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica2 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T22:04:07</date>
+  <millis>1543806247649</millis>
+  <sequence>0</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica2 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T22:09:04</date>
+  <millis>1543806544566</millis>
+  <sequence>0</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica2 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T22:13:32</date>
+  <millis>1543806812959</millis>
+  <sequence>0</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica2 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T22:27:03</date>
+  <millis>1543807623316</millis>
+  <sequence>0</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica2 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T22:31:51</date>
+  <millis>1543807911940</millis>
+  <sequence>0</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica2 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T22:37:17</date>
+  <millis>1543808237569</millis>
+  <sequence>0</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica2 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T22:44:43</date>
+  <millis>1543808683504</millis>
+  <sequence>0</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica2 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T22:51:46</date>
+  <millis>1543809106039</millis>
+  <sequence>0</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica2 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T23:04:14</date>
+  <millis>1543809854147</millis>
+  <sequence>0</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica2 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T23:13:09</date>
+  <millis>1543810389811</millis>
+  <sequence>0</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica2 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T23:16:16</date>
+  <millis>1543810576757</millis>
+  <sequence>0</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica2 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T23:23:39</date>
+  <millis>1543811019781</millis>
+  <sequence>0</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica2 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-02T23:55:09</date>
+  <millis>1543812909566</millis>
+  <sequence>0</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica2 running...</message>
+</record>
+<record>
+  <date>2018-12-03T00:10:03</date>
+  <millis>1543813803070</millis>
+  <sequence>2</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T00:10:29</date>
+  <millis>1543813829705</millis>
+  <sequence>3</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T00:12:04</date>
+  <millis>1543813924309</millis>
+  <sequence>4</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T00:12:19</date>
+  <millis>1543813939810</millis>
+  <sequence>5</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T00:12:29</date>
+  <millis>1543813949817</millis>
+  <sequence>6</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-03T01:47:46</date>
+  <millis>1543819666248</millis>
+  <sequence>0</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica2 running...</message>
+</record>
+<record>
+  <date>2018-12-03T01:48:51</date>
+  <millis>1543819731207</millis>
+  <sequence>2</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T01:51:25</date>
+  <millis>1543819885114</millis>
+  <sequence>3</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T01:51:44</date>
+  <millis>1543819904766</millis>
+  <sequence>4</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T01:52:01</date>
+  <millis>1543819921944</millis>
+  <sequence>5</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T01:52:11</date>
+  <millis>1543819931945</millis>
+  <sequence>6</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<record>
+  <date>2018-12-03T01:52:30</date>
+  <millis>1543819950274</millis>
+  <sequence>7</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-03T01:54:26</date>
+  <millis>1543820066267</millis>
+  <sequence>0</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica2 running...</message>
+</record>
+<record>
+  <date>2018-12-03T01:56:02</date>
+  <millis>1543820162487</millis>
+  <sequence>2</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-03T02:07:53</date>
+  <millis>1543820873600</millis>
+  <sequence>0</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica2 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-03T02:13:25</date>
+  <millis>1543821205410</millis>
+  <sequence>0</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica2 running...</message>
+</record>
+<record>
+  <date>2018-12-03T02:14:09</date>
+  <millis>1543821249951</millis>
+  <sequence>2</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Reply sent to FE</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-03T10:36:19</date>
+  <millis>1543851379024</millis>
+  <sequence>0</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica2 running...</message>
+</record>
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2018-12-03T12:02:18</date>
+  <millis>1543856538128</millis>
+  <sequence>0</sequence>
+  <logger>ServerSOEN</logger>
+  <level>INFO</level>
+  <class>Replica1.Server2</class>
+  <method>main</method>
+  <thread>1</thread>
+  <message>Replica2 running...</message>
+</record>
